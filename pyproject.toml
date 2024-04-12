@@ -3,11 +3,10 @@ requires = ["setuptools ~= 69.0", "wheel ~= 0.42"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "python-semantic-release"
-version = "9.4.1"
+name = "projects"
+version = "0.0.1"
 description = "Automatic Semantic Versioning for Python projects"
 requires-python = ">=3.8"
-license = { text = "MIT" }
 classifiers = [
   "Programming Language :: Python",
   "Programming Language :: Python :: 3",
@@ -54,28 +53,9 @@ template_dir = "templates"
 changelog_file = "CHANGELOG.md"
 exclude_commit_patterns = []
 
-[tool.semantic_release.changelog.environment]
-block_start_string = "{%"
-block_end_string = "%}"
-variable_start_string = "{{"
-variable_end_string = "}}"
-comment_start_string = "{#"
-comment_end_string = "#}"
-trim_blocks = false
-lstrip_blocks = false
-newline_sequence = "\n"
-keep_trailing_newline = false
-extensions = []
-autoescape = true
-
 [tool.semantic_release.branches.main]
 match = "(main|master|test_semantics)"
 prerelease = false
-prerelease_token = "rc"
-
-[tool.semantic_release.branches."0.0.x"]
-match = "0.0.x"
-prerelease = true
 prerelease_token = "rc"
 
 [tool.semantic_release.remote]
