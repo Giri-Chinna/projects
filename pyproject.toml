@@ -30,7 +30,7 @@ build_command = """
 """
 major_on_zero = true
 assets = []
-version_variables = ["semantic_release/__init__.py:__version__"]
+version_variables = ["tic_tac/__init__.py:__version__"]
 version_toml = ["pyproject.toml:project.version"]
 
 [tool.semantic_release.commit_parser_options]
