@@ -1,5 +1,5 @@
 [tool.commitizen]
-version = "0.4.3"  # This should be your current semver version
+version = "0.4.4"  # This should be your current semver version
 branch = "main"
 
 [tool.semantic_release.branches.main]

@@ -1,3 +1,10 @@
+## 0.4.4 (2024-04-12)
+
+### Fix
+
+- Update pyproject.toml
+- Update release.yaml
+
 ## 0.4.3 (2024-04-12)
 
 ### Fix
