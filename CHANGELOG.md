@@ -2,11 +2,20 @@
 
 
 
-## 0.4.5 (2024-04-12)
+## v0.1.1 (2024-04-12)
 
 ### Fix
 
-- Update hello.py
+* fix: Update release.yaml ([`0e8ea20`](https://github.com/Giri-Chinna/projects/commit/0e8ea206867cc231f33a483d033cf6321017c592))
+
+* fix: Update bump.yaml ([`505a226`](https://github.com/Giri-Chinna/projects/commit/505a2267d5b38dd4d309cb8cd46401ccafff8b22))
+
+* fix: Update hello.py ([`faaeae5`](https://github.com/Giri-Chinna/projects/commit/faaeae5da0c844aa1d34a6708092d2b06684f302))
+
+### Unknown
+
+* bump: version 0.4.4 → 0.4.5 ([`6cf3a3f`](https://github.com/Giri-Chinna/projects/commit/6cf3a3fb87bbbdf5c93d4b25affcd8c931ea410d))
+
 
 ## v0.1.0 (2024-04-12)
 
