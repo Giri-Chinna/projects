@@ -13,8 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     environment: dev
     steps:
-      - name: print sucess
+      - name: print success
         run: |
-          echo "${{vars.project_name}} Success"
+          echo "${{vars.PROJECT_NAME}} Success"
       
   
