@@ -1,0 +1,14 @@
+name: Test
+
+on:
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: print sucess
+        run: |
+          echo "Success"
+      
+  
