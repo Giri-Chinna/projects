@@ -14,6 +14,6 @@ jobs:
     steps:
       - name: print sucess
         run: |
-          echo "${{vars.project_name}} Success"
+          echo "${{vars.PROJECT_NAME}} Success"
       
   
