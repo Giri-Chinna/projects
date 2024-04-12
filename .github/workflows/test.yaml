@@ -1,0 +1,20 @@
+name: Test
+
+on:
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Environment'
+        required: true
+        type: environment
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment: dev
+    steps:
+      - name: print success
+        run: |
+          echo "${{vars.PROJECT_NAME}} Success"
+      
+  
