@@ -69,12 +69,12 @@ extensions = []
 autoescape = true
 
 [tool.semantic_release.branches.main]
-match = "(main|master)"
+match = "(main|master|test_semantics)"
 prerelease = false
 prerelease_token = "rc"
 
-[tool.semantic_release.branches."8.0.x"]
-match = "8.0.x"
+[tool.semantic_release.branches."0.0.x"]
+match = "0.0.x"
 prerelease = true
 prerelease_token = "rc"
 
