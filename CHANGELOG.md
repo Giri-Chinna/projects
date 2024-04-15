@@ -2,6 +2,21 @@
 
 
 
+## v0.2.0 (2024-04-15)
+
+### Feature
+
+* feat: Update hello.py ([`6ea042d`](https://github.com/Giri-Chinna/projects/commit/6ea042dae78d68cbd2da432696e41cdd2e90598f))
+
+### Unknown
+
+* Merge pull request #10 from Giri-Chinna/test_semantics
+
+feat: Update hello.py ([`8ecbc99`](https://github.com/Giri-Chinna/projects/commit/8ecbc998d92ee64fa2babddcce0c20a7455f0c41))
+
+* Merge branch &#39;main&#39; into test_semantics ([`eda4d75`](https://github.com/Giri-Chinna/projects/commit/eda4d75e9e2486ed1fb37d81f1bb5450a0f3b36c))
+
+
 ## v0.1.1 (2024-04-12)
 
 ### Fix
