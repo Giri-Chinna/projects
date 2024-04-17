@@ -11,9 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     concurrency: release
     permissions:
-      id-token: write
-      contents: write
-      pull-requests: write
+      id-token: read and write
+      contents: read and write
+      pull-requests: read and write
 
     steps:
     - uses: actions/checkout@v3
