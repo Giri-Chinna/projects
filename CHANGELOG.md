@@ -2,6 +2,13 @@
 
 
 
+## v0.2.2 (2024-04-17)
+
+### Fix
+
+* fix: Update pyproject.toml ([`d01565e`](https://github.com/Giri-Chinna/projects/commit/d01565e63460e6cb7aaae4b82a467bff336071c4))
+
+
 ## v0.2.1 (2024-04-17)
 
 ### Fix
