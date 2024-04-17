@@ -1,0 +1,15 @@
+name: TEST TAGS
+
+on:
+  push:
+    tags:
+      - v0.*
+
+jobs:
+  print:
+   runs-on: ubuntu-latest
+   steps:
+   - name: print
+     run: |
+       echo 'Hello World!'
+    
