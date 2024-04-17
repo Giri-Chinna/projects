@@ -1,7 +1,3 @@
-[tool.commitizen]
-version = "0.4.5"  # This should be your current semver version
-branch = "main"
-
 [tool.semantic_release.branches.main]
 match = "(main|master)"
 prerelease_token = "rc"
