@@ -5,6 +5,10 @@ on:
 
   push:
     branches: main
+    paths-ignore: 
+      - CHANGELOG.md
+      - pyproject.toml
+      - README.md
 
 jobs:
   release:
