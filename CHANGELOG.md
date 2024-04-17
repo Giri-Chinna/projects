@@ -2,6 +2,53 @@
 
 
 
+## v0.2.1 (2024-04-17)
+
+### Fix
+
+* fix: Create tags.yaml ([`432bb29`](https://github.com/Giri-Chinna/projects/commit/432bb29c52776d86d06b6a92a402d9375f6bf93e))
+
+* fix: Update release.yaml ([`3ab6e2d`](https://github.com/Giri-Chinna/projects/commit/3ab6e2dc42d3c55d4386fa34c3e021da7716c707))
+
+* fix: Update release.yaml ([`1d91005`](https://github.com/Giri-Chinna/projects/commit/1d91005cb6accf3878cf192fd5ea15834b1c2901))
+
+* fix: Update test.py ([`d7c1ab8`](https://github.com/Giri-Chinna/projects/commit/d7c1ab8d549a47e938169cd06595b77e7c90eb7d))
+
+### Unknown
+
+* Merge pull request #16 from Giri-Chinna/test_semantics
+
+fix: Create tags.yaml ([`92d9e1d`](https://github.com/Giri-Chinna/projects/commit/92d9e1d7d5342137e489bea1bd8635ece242f072))
+
+* Update release.yaml ([`8f173c7`](https://github.com/Giri-Chinna/projects/commit/8f173c72b8566be16d33aebb9698118fa384d515))
+
+* Merge pull request #15 from Giri-Chinna/test_semantics
+
+fix: Update release.yaml ([`ce0a336`](https://github.com/Giri-Chinna/projects/commit/ce0a33698b42a8755c4aa4b565a04021ad9570f0))
+
+* Merge pull request #14 from Giri-Chinna/test_semantics
+
+fix : Update release.yaml ([`44382c8`](https://github.com/Giri-Chinna/projects/commit/44382c8c7cc7bf3d4d0b58c582e50d8bc0dbe107))
+
+* fix : Update release.yaml ([`8f19e85`](https://github.com/Giri-Chinna/projects/commit/8f19e856ba17460fa73749d3073cb6a2e146f4ea))
+
+* Merge pull request #13 from Giri-Chinna/test_semantics
+
+Update release.yaml ([`59eb1d5`](https://github.com/Giri-Chinna/projects/commit/59eb1d54333e30757c133f9bdd05f5675046648a))
+
+* Update release.yaml ([`3ccd4b3`](https://github.com/Giri-Chinna/projects/commit/3ccd4b3791f356700940547825265cf7b3c7c995))
+
+* Merge pull request #12 from Giri-Chinna/test_semantics
+
+Update release.yaml ([`8902a3b`](https://github.com/Giri-Chinna/projects/commit/8902a3b537cc1d7c54cb79d74b1fd27c7689b11e))
+
+* Update release.yaml ([`c18e549`](https://github.com/Giri-Chinna/projects/commit/c18e54978052e75872b6cbf7791a31acc7b90795))
+
+* Merge pull request #11 from Giri-Chinna/test_semantics
+
+fix: Update test.py ([`9c884a9`](https://github.com/Giri-Chinna/projects/commit/9c884a9f00a038fa4a532371361e739366a17e91))
+
+
 ## v0.2.0 (2024-04-15)
 
 ### Feature
