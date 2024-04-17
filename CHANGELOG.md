@@ -2,6 +2,13 @@
 
 
 
+## v0.3.0 (2024-04-17)
+
+### Feature
+
+* feat: Delete tic_tac/hello.py ([`51a1e59`](https://github.com/Giri-Chinna/projects/commit/51a1e59b3889b907efc08f77f5cb5dffee2ad10b))
+
+
 ## v0.2.2 (2024-04-17)
 
 ### Fix
